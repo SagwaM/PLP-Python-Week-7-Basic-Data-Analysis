@@ -30,25 +30,11 @@ You can install the required packages using pip:
 
 pip install pandas matplotlib seaborn scikit-learn
 
-Setup and Execution
-
-    Clone the Repository:
-
-git clone https://github.com/your-username/iris-analysis.git
-cd iris-analysis
-
 Running in Google Colab:
 
     Upload the iris.csv file (if not using scikit-learn to load the dataset) into your Google Colab environment.
     Open the analysis.ipynb notebook in Google Colab.
     Run the notebook cells sequentially.
-
-Running Locally:
-
-    If you're using a Python script (analysis.py), ensure you have installed the required libraries.
-    Run the script from your terminal:
-
-        python analysis.py
 
 Code Structure
 
